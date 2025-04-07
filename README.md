@@ -23,12 +23,7 @@ This is a basic **Android calculator app** built with **Jetpack Compose**.
 - Jetpack Compose
 - Material3
 - Android Studio
-
-## 📸 Preview
-
-*You can include a screenshot or GIF here*
-
-
+  
 ## 🚀 Getting Started
 
 Open the project in **Android Studio**, build and run on an emulator or physical device with Android 5.0 (API 21) or higher.
